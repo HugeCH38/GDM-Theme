@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+ipch
+bin
+*.out
+*.exe
+*.class
+*.log
+/bin/

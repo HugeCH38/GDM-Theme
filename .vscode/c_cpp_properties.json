@@ -1,0 +1,19 @@
+{
+	"configurations": [
+		{
+			"name": "Linux",
+			"includePath": [
+				"${workspaceFolder}/**",
+				"/usr/include",
+				"/usr/include/clang/6.0/include",
+				"/usr/include/clang/6.0.0/include"
+			],
+			"defines": [],
+			"compilerPath": "/usr/bin/clang",
+			"cStandard": "c11",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "clang-x64"
+		}
+	],
+	"version": 4
+}

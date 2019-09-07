@@ -1,0 +1,5 @@
+#!/bin/bash
+
+convert -blur 0x25 file:///`pwd`/$1 ~/Pictures/gdmlock.jpg
+
+pkexec cp -f ~/Pictures/gdmlock.jpg /usr/share/backgrounds/
